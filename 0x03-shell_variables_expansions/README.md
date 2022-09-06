@@ -1,0 +1,1 @@
+I am creating different files in the shell variable expansion directory and inputing commands into them, not forgetting to make each file executable.
